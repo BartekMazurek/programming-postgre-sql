@@ -6,4 +6,7 @@ require_once 'connection.php';
 //require_once 'functions.php';
 
 // STORED PROCEDURES
-require_once 'procedures.php';
+//require_once 'procedures.php';
+
+// VIEWS
+require_once 'views.php';
